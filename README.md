@@ -49,12 +49,12 @@
   <img width="97%" height="180px" src="https://streak-stats.demolab.com?user=ZYONKAISER&theme=dark&hide_border=true&background=0d1117&stroke=00bfbf&ring=800020&fire=800020&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9" alt="GitHub Streak" />
 
   ### 🔥 Recent Activities
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZYONKAISER&bg_color=000000&color=98FB98&line=008C8C&point=7F1734&area=true&hide_border=true)](https://github.com/ZYONSpiral084)
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZYONKAISER&bg_color=000000&color=98FB98&line=008C8C&point=7F1734&area=true&hide_border=true)](https://github.com/ZYONKAISER)
 
   ### 🐍 Contribution Snake
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZYONSpiral084/Snake_Github/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZYONSpiral084/Snake_Github/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZYONKAISER/Snake_Github/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZYONKAISER/Snake_Github/output/github-contribution-grid-snake.svg">
     <img alt="Snake animation" src="https://raw.githubusercontent.com/ZYONKAISER/Snake_Github/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
